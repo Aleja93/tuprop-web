@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_plans_living room@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Landing-Q2-2018-(finalisation)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mackbook-13" transform="translate(-595.000000, -2721.000000)">
+            <g id="icn_plans_living-room" transform="translate(595.000000, 2721.000000)">
+                <rect id="Rectangle-path" x="0" y="0" width="48" height="48"></rect>
+                <rect id="Rectangle-5" x="6" y="34" width="22" height="11"></rect>
+                <path d="M6,28 L6,45 L3,45 C2.6,45 2.3,44.9 2,44.7 C1.4,44.4 1,43.7 1,43 L1,28 C1,26.9 1.9,26 3,26 L4,26 C5.1,26 6,26.9 6,28 Z" id="Shape" stroke="#8C9AA3" stroke-width="2"></path>
+                <path d="M2,47 L2,45" id="Shape" stroke="#8C9AA3" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M33,28 L33,43 C33,43.7 32.6,44.4 32,44.7 C31.7,44.9 31.4,45 31,45 L28,45 L28,28 C28,26.9 28.9,26 30,26 L31,26 C32.1,26 33,26.9 33,28 Z" id="Shape" stroke="#8C9AA3" stroke-width="2"></path>
+                <path d="M32,47 L32,45" id="Shape" stroke="#8C9AA3" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M28,45 L6,45" id="Shape" stroke="#8C9AA3" stroke-width="2"></path>
+                <path d="M28,38 L6,38" id="Shape" stroke="#8C9AA3" stroke-width="2"></path>
+                <path d="M30,17 L30,26 C28.9,26 28,26.9 28,28 L28,33 L6,33 L6,28 C6,26.9 5.1,26 4,26 L4,17 C4,15.9 4.9,15 6,15 L28,15 C29.1,15 30,15.9 30,17 Z" id="Shape" stroke="#8C9AA3" stroke-width="2"></path>
+                <path d="M37.9,1 L44,1 C44.5,1 44.9,1.4 45,1.8 L46.7,12.8 C46.8,13.4 46.3,14 45.7,14 L36.2,14 C35.6,14 35.1,13.5 35.2,12.8 L36.9,1.8 C37,1.4 37.4,1 37.9,1 Z" id="Shape" stroke="#8C9AA3" stroke-width="2"></path>
+                <path d="M41,44 L41,14" id="Shape" stroke="#8C9AA3" stroke-width="2"></path>
+                <path d="M38,14 L38,16" id="Shape" stroke="#8C9AA3" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M46.5,47 L35.5,47 L35.5,46 C35.5,44.9 36.4,44 37.5,44 L44.5,44 C45.6,44 46.5,44.9 46.5,46 L46.5,47 Z" id="Shape" stroke="#8C9AA3" stroke-width="2" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
